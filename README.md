@@ -1,5 +1,7 @@
 # Second test commit 😁
 
+# Third line added by me ✍️
+
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
